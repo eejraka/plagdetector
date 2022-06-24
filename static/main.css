@@ -36,7 +36,7 @@ body{
 }
 
 .navbar-brand{
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Press Start 2P', cursive;
     font-size: 25px;
 }
 
@@ -46,4 +46,8 @@ body{
     height: 40vh;
     border-radius: 8px;
     border-color: rgb(6, 6, 94);
+}
+
+.social{
+    padding: 2rem;
 }
