@@ -9,6 +9,8 @@ Detects plagiarism in articles, which is useful in educational sectors.
 It does so by sending the text in the box through a Google search and scraping the links, while computing the similarity between entered text and simlar articles online.
 For its output, it also returns the link to the similar articles, as well as the exact lines that were found to be similar.
 
+The project was deployed on a linux virtual machine running python 3.9 via Azure Resource Group and Azure Web App.
+
 ## **Screenshots**
 
 ### Home Page
